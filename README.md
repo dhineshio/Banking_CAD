@@ -4,8 +4,6 @@ My Bank Admin is a web application for bank management. It is developed using Ja
 
 ## Architecture
 
-![Architecture](https://raw.githubusercontent.com/BrodyGaudel/bank/main/architecture.png)
-
 ## Microservices
 
 The application is divided into three microservices:
@@ -76,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Author and Developer
 
-- Brody Gaudel MOUNANGA BOUKA
+- Dhinesh IO, Ramprasath, mathiarasan 
